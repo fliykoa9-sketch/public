@@ -45,7 +45,7 @@ chmod + copy_libs.sh
 ./ai_relay_bot
 ```
 
-## ⚙️ 配置说明
+# 6. ⚙️ 配置说明
 
 编辑 `config.json` 文件：
 ```json
@@ -57,7 +57,7 @@ chmod + copy_libs.sh
 }
 ```
 
-## 🔧 系统要求
+# 7. 🔧 系统要求
 
 - Python 3.12+
 - Google Chrome浏览器
@@ -66,7 +66,7 @@ chmod + copy_libs.sh
 
 
 
-## 📞 支持
+# 8. 📞 支持
 
 如遇问题请检查：
 1. Chrome浏览器
