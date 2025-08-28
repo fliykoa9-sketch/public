@@ -31,11 +31,11 @@ chmod + copy_libs.sh
 
 1 自己的推特账号
 2 从用户管理界面生成的token
-、、、
+```bash
   "my_username": "your_twitter_username_here",
 
   "web_api_token": "AI服务访问token",
-、、、
+```
 
 
 # 5. 启动程序
