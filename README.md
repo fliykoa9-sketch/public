@@ -16,7 +16,7 @@ https://github.com/fliykoa9-sketch/public/releases
 - `copy_libs.sh` - 安装脚本
 - `*lib` - 动态库文件 
 
-# 3. 初始化，安装三个依赖文件
+# 3. 初始化，安装三个依赖文件(有些用户默认没有安装SSL依赖包)
 ```bash
 # macOS
 在当前软件解压缩后的目录下或者自己放置的具体程序目录下打开console终端,执行文件拷贝，macOS用户会将这3个动态库拷贝到/usr/local/lib文件目录
