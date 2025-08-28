@@ -1,8 +1,8 @@
-# Twitter智能互动平台
+### Twitter智能互动平台
 
 ## 🚀 安装方法
 
-## macOS
+# macOS
 
 # 1. 下载文件并解压缩
 
@@ -41,7 +41,7 @@ chmod + copy_libs.sh
 
 
 # 5. 启动程序
-、、、
+```bash
 ./ai_relay_bot
 ```
 
@@ -56,8 +56,6 @@ chmod + copy_libs.sh
 - Python 3.12+
 - Google Chrome浏览器
 - 网络连接
-
-
 
 
 # 8. 📞 支持
