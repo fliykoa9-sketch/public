@@ -38,7 +38,7 @@ python start_encrypted.py
 
 ## 🔧 系统要求
 
-- Python 3.8+
+- Python 3.12+
 - Google Chrome浏览器
 - 网络连接
 
@@ -50,11 +50,6 @@ python start_encrypted.py
 - `install_hidden.py` - 组件配置器
 - `*.so` - 加密核心模块
 
-## 🛡️ 安全特性
-
-- 核心代码完全加密
-- 商业级代码保护
-- 不可逆向工程
 
 ## 📞 支持
 
