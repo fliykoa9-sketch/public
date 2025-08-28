@@ -19,7 +19,7 @@ https://github.com/fliykoa9-sketch/public/releases
 # 3. 初始化，安装三个依赖文件
 ```bash
 # macOS
-在当前目录下打开console终端,执行文件拷贝，macOS用户会将这3个动态库拷贝到/usr/local/lib文件目录
+在当前软件解压缩后的目录下或者自己放置的具体程序目录下打开console终端,执行文件拷贝，macOS用户会将这3个动态库拷贝到/usr/local/lib文件目录
 
 chmod + copy_libs.sh
 ./copy_libs.sh
