@@ -16,16 +16,7 @@ https://github.com/fliykoa9-sketch/public/releases
 - `copy_libs.sh` - 安装脚本
 - `*lib` - 动态库文件 
 
- 3. 初始化，安装三个依赖文件(有些用户默认没有安装SSL依赖包)
-```bash
-# macOS
-在当前软件解压缩后的目录下或者自己放置的具体程序目录下打开console终端,执行文件拷贝，macOS用户会将这3个动态库拷贝到/usr/local/lib文件目录
-
-chmod + copy_libs.sh
-./copy_libs.sh
-
-```
- 4. 配置文件
+3. 配置文件
 
 配置参数（编辑config.json）
 
@@ -40,10 +31,21 @@ chmod + copy_libs.sh
 ```
 
 
- 5. 启动程序
+4. 启动程序
 ```bash
 ./ai_relay_bot
 ```
+5. 如果有提示没有模块，安装三个依赖文件(有些用户默认没有安装SSL依赖包)
+
+```bash
+# macOS
+在当前软件解压缩后的目录下或者自己放置的具体程序目录下打开console终端,执行文件拷贝，macOS用户会将这3个动态库拷贝到/usr/local/lib文件目录
+
+chmod + copy_libs.sh
+./copy_libs.sh
+
+```
+
 
  6. ⚙️ 安全说明
 
@@ -53,7 +55,7 @@ chmod + copy_libs.sh
 
  7. 🔧 系统要求
 
-- Python 3.12+
+- Python 3.12
 - Google Chrome浏览器
 - 网络连接
 
