@@ -32,8 +32,10 @@ https://github.com/fliykoa9-sketch/public/releases
 
 
 4. 启动程序
+   在CMD或者console下面的程序所在目录执行
 ```bash
-./ai_relay_bot
+WIN ./XXXX
+MAC ./XXXX
 ```
 5. 如果有提示没有模块，安装三个依赖文件(有些用户默认没有安装SSL依赖包)
 
