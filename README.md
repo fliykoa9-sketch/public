@@ -70,4 +70,4 @@ chmod + copy_libs.sh
 1. Chrome浏览器
 2. 网络连接
 3. 配置文件
-4. 线上TG客户咨询
+4. 线上TG客服咨询
