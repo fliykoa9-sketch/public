@@ -7,6 +7,9 @@
 2. 使用 Google 邮箱登录注册
 3. 获取 Token 后复制到下方 API Token 输入框
 
+   <img width="814" height="1096" alt="7788888" src="https://github.com/user-attachments/assets/fe09f46f-d09c-4c1d-91b1-5ef935a02ea6" />
+
+
 三 使用方法：
 
 1 在google商店搜索 xxxx下
