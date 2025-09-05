@@ -14,6 +14,13 @@
 
 1 在google商店搜索 xxxx下
 2 或者直接github 下载后解压缩后打开google浏览器插件，打开开发模式，加载为打包的插件，选择解压缩文件所在的目录，加载插件
+<img width="1484" height="848" alt="9999" src="https://github.com/user-attachments/assets/bc03d474-c18d-4cda-841b-1aaa8bbc33ef" />
+
+
 3 点击插件输入url和token
 4 在评论和回复窗口直接有AI调用和模版回复模式，根据需求自行选择。
-5 生成的内容后会有提示直接使用CTRL+V复制使用即可。
+<img width="1091" height="541" alt="image" src="https://github.com/user-attachments/assets/9f4b4be9-9a0b-4877-ba79-8c01c03f91fe" />
+
+5 智能生成的内容后会有提示直接使用CTRL+V复制使用即可。
+
+<img width="1007" height="528" alt="image" src="https://github.com/user-attachments/assets/01543165-e7e3-4ef0-b19c-4182d1d57653" />
