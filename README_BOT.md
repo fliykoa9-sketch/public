@@ -55,7 +55,8 @@ chmod + copy_libs.sh
 
 如果程序没运行起来先到设置里面，隐私与安全，点击允许运行
 
-![img]([https://private-user-images.githubusercontent.com/229079095/483064991-781e6b0c-7b20-428f-a937-7577f80edde3.jpg](https://private-user-images.githubusercontent.com/229079095/483064991-781e6b0c-7b20-428f-a937-7577f80edde3.jpg?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTYzNzIwNzAsIm5iZiI6MTc1NjM3MTc3MCwicGF0aCI6Ii8yMjkwNzkwOTUvNDgzMDY0OTkxLTc4MWU2YjBjLTdiMjAtNDI4Zi1hOTM3LTc1NzdmODBlZGRlMy5qcGc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwODI4JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDgyOFQwOTAyNTBaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1mM2JlMDBhMzI3ZWIzNDg3MWZjYTY5ODNlNjg0ZjNjY2YzNzI4ZGM3NzY3YjYyZTU5Y2ZlZjk2ZmNmM2U3ODY0JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.lsk52mOqpZYiD8oWsN_bM1k3rBiNbEujwHKHA2SuuRI))
+<img width="702" height="341" alt="image" src="https://github.com/user-attachments/assets/ca00c9bf-1b70-4e40-adee-2ac478d1ca1d" />
+
 
  7. 🔧 系统要求
 
