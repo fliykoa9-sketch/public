@@ -7,7 +7,7 @@
 3 使用说明查看README
 
 
-#插件使用说明
+# google插件使用说明
 
 一 注册网站： https://awsinsight.net
 
