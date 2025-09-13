@@ -22,7 +22,8 @@
 
 三 使用方法：
 
-1 在google商店搜索 https://chromewebstore.google.com/detail/igjaplchliebiahibhjcbjecdeckgkli
+1 在google商店搜索 [https://chromewebstore.google.com/detail/igjaplchliebiahibhjcbjecdeckgkli](https://chromewebstore.google.com/detail/twitter-ai-reply-assistan/igjaplchliebiahibhjcbjecdeckgkli?authuser=1&hl=zh-CN)
+
 
 2 或者:https://github.com/fliykoa9-sketch/public/releases
 直接github下载后解压缩后打开google浏览器插件，打开开发模式，加载未打包的插件，选择解压缩文件所在的目录，加载插件
