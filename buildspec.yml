@@ -1,0 +1,24 @@
+version: 0.2
+
+phases:
+  install:
+    commands:
+      - echo "Installing kubectl and aws-iam-authenticator..."
+      - curl -o kubectl https://s3.us-west-2.amazonaws.com/amazon-eks/1.30.0/2024-05-01/bin/linux/amd64/kubectl
+      - chmod +x ./kubectl
+      - mv ./kubectl /usr/local/bin/kubectl
+
+  pre_build:
+    commands:
+      - echo "Logging in to EKS cluster..."
+      - aws eks update-kubeconfig --name my-eks --region ap-northeast-1
+
+  build:
+    commands:
+      - echo "Deploying manifests..."
+      - kubectl apply -f k8s/deployment.yaml
+      - kubectl apply -f k8s/service.yaml
+
+artifacts:
+  files:
+    - '**/*'
