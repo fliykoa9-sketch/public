@@ -12,12 +12,10 @@ phases:
     commands:
       - echo "Logging in to EKS cluster..."
       - aws eks update-kubeconfig --name test --region ap-east-1
-      - echo "Current user identity:"
-      - aws sts get-caller-identity
-      - echo "Testing kubectl auth:"
-      - kubectl auth can-i "*" "*" --all-namespaces
+      - echo "Testing permissions:"
       - kubectl auth can-i create deployments --namespace default
-      - kubectl auth whoami
+      - kubectl auth can-i get deployments --namespace default
+      - kubectl get nodes
 
   build:
     commands:
