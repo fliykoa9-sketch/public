@@ -31,14 +31,13 @@
 
 
 3 点击插件输入url和token
-4 在评论和回复窗口直接有AI调用和模版回复模式，根据需求自行选择。
-<img width="1091" height="541" alt="image" src="https://github.com/user-attachments/assets/9f4b4be9-9a0b-4877-ba79-8c01c03f91fe" />
 
-5 生成文章内容，填入推特帐号(不是自己的)，选择文章长度，风格，其他要求。等待1-2分钟即可。
+
+4 生成文章内容，填入推特帐号(不是自己的)，选择文章长度，风格，其他要求。等待1-2分钟即可。
 <img width="910" height="639" alt="image" src="https://github.com/user-attachments/assets/7854406b-249f-4d3e-8b1e-dddc600ab3c0" />
 
 
-6 回复别人的帖子或者回复自己帖子下的评论。
+5 回复别人的帖子或者回复自己帖子下的评论。
 
 <img width="653" height="540" alt="image" src="https://github.com/user-attachments/assets/28ee0bcf-b874-4fbe-80ee-afc9240ebb83" />
 
