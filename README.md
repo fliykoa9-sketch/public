@@ -31,6 +31,8 @@
 
 
 3 点击插件输入url和token
+<img width="384" height="596" alt="image" src="https://github.com/user-attachments/assets/b29ecea7-6502-4bf8-9859-5d8fb877dae6" />
+
 
 
 4 生成文章内容，填入推特帐号(不是自己的)，选择文章长度，风格，其他要求。等待1-2分钟即可。
