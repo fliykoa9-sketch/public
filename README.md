@@ -30,7 +30,8 @@
 <img width="1484" height="848" alt="9999" src="https://github.com/user-attachments/assets/bc03d474-c18d-4cda-841b-1aaa8bbc33ef" />
 
 
-3 点击插件输入url和token
+3 点击插件输入url和token.
+
 <img width="384" height="596" alt="image" src="https://github.com/user-attachments/assets/b29ecea7-6502-4bf8-9859-5d8fb877dae6" />
 
 
